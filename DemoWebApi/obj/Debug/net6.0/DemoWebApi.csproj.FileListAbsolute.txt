@@ -10,7 +10,6 @@ C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\bin\Debug\net6.0\Microsoft.O
 C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\obj\Debug\net6.0\DemoWebApi.csproj.AssemblyReference.cache
 C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\obj\Debug\net6.0\DemoWebApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\obj\Debug\net6.0\DemoWebApi.AssemblyInfoInputs.cache
 C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\obj\Debug\net6.0\DemoWebApi.AssemblyInfo.cs
@@ -25,3 +24,4 @@ C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\obj\Debug\net6.0\DemoWebApi.
 C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\obj\Debug\net6.0\ref\DemoWebApi.dll
 C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\obj\Debug\net6.0\DemoWebApi.pdb
 C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\obj\Debug\net6.0\DemoWebApi.genruntimeconfig.cache
+C:\Users\jhotchl\source\repos\DemoWebApi\DemoWebApi\obj\Debug\net6.0\DemoWebApi.csproj.AssemblyReference.cache

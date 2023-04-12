@@ -6,7 +6,6 @@ C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\bin\Debug\net6.0\KuchBhiNaa
 C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\bin\Debug\net6.0\KuchBhiNaam.dll
 C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\bin\Debug\net6.0\ref\KuchBhiNaam.dll
 C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\bin\Debug\net6.0\KuchBhiNaam.pdb
-C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\obj\Debug\net6.0\KuchBhiNaam.csproj.AssemblyReference.cache
 C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\obj\Debug\net6.0\KuchBhiNaam.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\obj\Debug\net6.0\KuchBhiNaam.AssemblyInfoInputs.cache
 C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\obj\Debug\net6.0\KuchBhiNaam.AssemblyInfo.cs
@@ -19,3 +18,4 @@ C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\obj\Debug\net6.0\KuchBhiNaa
 C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\obj\Debug\net6.0\ref\KuchBhiNaam.dll
 C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\obj\Debug\net6.0\KuchBhiNaam.pdb
 C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\obj\Debug\net6.0\KuchBhiNaam.genruntimeconfig.cache
+C:\Users\jhotchl\source\repos\DemoWebApi\KuchBhiNaam\obj\Debug\net6.0\KuchBhiNaam.csproj.AssemblyReference.cache
